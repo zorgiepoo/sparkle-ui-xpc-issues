@@ -1,0 +1,1 @@
+Please report new issues to the [official Sparkle repository](https://github.com/sparkle-project/Sparkle). This branch has been pulled into that repo. Furthermore, I cannot guarantee activity or responsiveness here.
